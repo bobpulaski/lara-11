@@ -1,2 +1,1 @@
-# 
-Code Ocean Site build by Laravel 11 and Filament 3
+# Code Ocean Site build by Laravel 11 and Filament 3
