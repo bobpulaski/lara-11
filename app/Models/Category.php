@@ -10,6 +10,6 @@ class Category extends Model
     use HasFactory;
 
     protected $fillable = [
-        'name' => 'required|string|min:3|max:20',
+        'name',
     ];
 }
